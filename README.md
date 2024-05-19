@@ -1,4 +1,4 @@
-# Nix-flake Dev Environment for Emulating Games
+# Nix-flake Dev Environment for Emulating
 
 This repository contains a Nix-flake development environment for emulating various game consoles and computers.
 
