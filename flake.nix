@@ -115,6 +115,7 @@
           echo " - Vecx (GCE – Vectrex)"
           echo " - Caprice32 (Amstrad CPC)"
           echo " - OpenMSX (MSX, MSX 2)"
+          echo " - dosbox ( MS-DOS 5)"
           echo " - NP2KAI (NEC PC-98)"
           echo " - FCEUX (NES, Family Computer)"
           echo " - mGBA (Game Boy, Game Boy Color, Game Boy Advance)"
