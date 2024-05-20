@@ -4,9 +4,11 @@ This repository contains a Nix-flake development environment for emulating vario
 
 ## Setup
 
-To use this development environment, ensure you have Nix installed. Then, run the following commands:
+To use this development environment, ensure you have Nix installed. Then, run the following command:
 
 `nix develop github:EternalBlissed/emulation-station-nix`
+### Or
+`NIXPKGS_ALLOW_UNFREE=1 nix develop github:EternalBlissed/emulation-station-nix --impure `
 
 This will drop you into a shell with all the necessary emulators installed.
 
