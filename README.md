@@ -1,4 +1,4 @@
-# Nix-flake Dev Environment for Emulating
+# Nix-flake Dev Environment for Emulating Games
 
 This repository contains a Nix-flake development environment for emulating various game consoles and computers.
 
@@ -67,7 +67,55 @@ Below is a list of the emulators available in this environment:
   - Atari 7800
 - **RPCEmu**: Acorn – Archimedes, Acorn - Risc PC (Flux), Acorn - Atom (Tapes) (Bitstream), Acorn RISC OS - Flash Media (Misc)
 - **Caprice32**: Amstrad - CPC (Flux), Amstrad - CPC (Misc)
-- **QEMU Full**: Generic Virtualization, Apple - Macintosh (A2R), Apple - Macintosh (BETA) (Bitstreams), Apple - Macintosh (BETA) (FluxDumps), Apple - Macintosh (DC42), Apple - Macintosh (KryoFlux), Apple - Macintosh (Uncategorized), Apple - Macintosh (WOZ), Apple-Bandai - Pippin
+- **QEMU Full**: 
+  - **CPU/OS Emulating in the following Architectures**
+  - X86_64
+  - I386
+  - Aarch64
+  - Sparc
+  - Sparc64
+  - Mips 
+  - Mipsel
+  - Mips64
+  - Mips64el
+  - PPC
+  - PPC64
+  - PPC64le
+  - S390x
+  - HPPA
+  - Alpha
+  - Riscv32
+  - Riscv64
+  - Loongarch64
+  - Aarch64_be
+  - Xtensa
+  - Xtensaeb
+  - SH4
+  - SH4eb
+  - M68k
+  - Hexagon
+  - Nios2
+  - Microblaze
+  - Microblazeel
+  - Or1k
+  - NBD
+  - AVR
+  - Tricore
+  - RX
+  - Cris
+  - Mipsn32
+  - Mipsn32el
+  - Or1k
+  - Sparc32plus
+  - **And**
+  - Apple - Macintosh (A2R), 
+  - Apple - Macintosh (BETA) (Bitstreams), 
+  - Apple - Macintosh (BETA) (FluxDumps), 
+  - Apple - Macintosh (DC42), 
+  - Apple - Macintosh (KryoFlux), 
+  - Apple - Macintosh (Uncategorized), 
+  - Apple - Macintosh (WOZ), 
+  - Apple-Bandai - Pippin
 - **Stella**: Atari 2600
 - **Atari800**: Atari 5200
 - **AtariPP**: Atari - 8-bit Family, Atari - 8-bit Family (Kryoflux)

@@ -29,6 +29,7 @@
         libretro.o2em # Magnavox - Odyssey 2, Philips – Videopac+
         libretro.freeintv # Mattel – Intellivision
         openmsx # Microsoft – MSX, Microsoft – MSX 2
+        dosbox # Microsoft - MS-DOS 5.0 / FreeDOS 
         retroarchBare # For libretro cores
         mednafen # Nintendo - Virtual Boy, NEC - PC Engine – TurboGrafx-16, NEC - PC Engine SuperGrafx, Casio - Loopy, Atari Lynx, Bandai – WonderSwan, Bandai – WonderSwan Color, Benesse - Pocket Challenge V2, Benesse - Pocket Challenge W
         hatari # Atari ST, STE, TT, and Falcon
