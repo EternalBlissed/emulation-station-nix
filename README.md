@@ -10,7 +10,7 @@ A Nix-flake dev environment for emulating games.
 
 To use this development environment, ensure you have Nix installed. Then, run the following commands:
 
-`nix develop`
+`nix develop github:EternalBlissed/emulation-station-nix`
 
 This will drop you into a shell with all the necessary emulators installed.
 
