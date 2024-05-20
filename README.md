@@ -107,7 +107,7 @@ Below is a list of the emulators available in this environment:
   - Mipsn32el
   - Or1k
   - Sparc32plus
-  - **And**
+  ---
   - Apple - Macintosh (A2R), 
   - Apple - Macintosh (BETA) (Bitstreams), 
   - Apple - Macintosh (BETA) (FluxDumps), 
