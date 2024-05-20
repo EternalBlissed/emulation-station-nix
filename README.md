@@ -2,10 +2,6 @@
 
 This repository contains a Nix-flake development environment for emulating various game consoles and computers.
 
-## Description
-
-A Nix-flake dev environment for emulating games.
-
 ## Setup
 
 To use this development environment, ensure you have Nix installed. Then, run the following commands:
