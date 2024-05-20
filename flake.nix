@@ -92,7 +92,7 @@
 
       shellHook = ''
         PS1="[Emulation-Station]> "
-        echo "Type list to list all emulators or see the README for a more detailed explanation/"
+        echo "Type list to list all emulators or see the README for a more detailed explanation."
 
         list-emulators() {
           echo "Available emulators:"
